@@ -1,1 +1,1 @@
-i# Repository of groundwater modelling projects
+# Repository of groundwater modelling projects
